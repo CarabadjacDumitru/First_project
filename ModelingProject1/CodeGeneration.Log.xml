@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 14.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/CodeGenLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2016-11-25T21:42:12" Importance="High" Text="Code generation or text transformation started." />
+  <Message Timestamp="2016-11-25T21:42:12" Importance="Diagnostic" Text="Name = ClassTemplate" />
+  <Message Timestamp="2016-11-25T21:42:12" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2016-11-25T21:42:12" Importance="Diagnostic" Text="ProjectPath = ..\ModelingProject1Lib\ModelingProject1Lib.csproj" />
+  <Message Timestamp="2016-11-25T21:42:12" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2016-11-25T21:42:12" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2016-11-25T21:42:12" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2016-11-25T21:42:12" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2016-11-25T21:42:12" Importance="Medium" Text="ModelingProject1's Text Template Binding: 'ClassTemplate' will apply ClassTemplate.t4 to: 'ModelingProject1::Bank' -  (Class), 'ModelingProject1::Branch' -  (Class), 'ModelingProject1::Customer' -  (Class), 'ModelingProject1::Account' -  (Class), 'ModelingProject1::Address' -  (Class), 'ModelingProject1::Contact' -  (Class), 'ModelingProject1::Payment' -  (Class), 'ModelingProject1::Contract' -  (Class) " />
+  <Message Timestamp="2016-11-25T21:42:13" Importance="Medium" Text="Project Added: C:\Users\dimon\documents\visual studio 2015\Projects\ConsoleApplication4\ModelingProject1Lib\ModelingProject1Lib.csproj" />
+  <Message Timestamp="2016-11-25T21:42:13" Importance="Medium" Text="'ModelingProject1::Bank' -  (Class) : success (file replaced) - C:\Users\dimon\documents\visual studio 2015\Projects\ConsoleApplication4\ModelingProject1Lib\GeneratedCode\Bank.cs" />
+  <Message Timestamp="2016-11-25T21:42:14" Importance="Medium" Text="'ModelingProject1::Branch' -  (Class) : success (file replaced) - C:\Users\dimon\documents\visual studio 2015\Projects\ConsoleApplication4\ModelingProject1Lib\GeneratedCode\Branch.cs" />
+  <Message Timestamp="2016-11-25T21:42:14" Importance="Medium" Text="'ModelingProject1::Customer' -  (Class) : success (file replaced) - C:\Users\dimon\documents\visual studio 2015\Projects\ConsoleApplication4\ModelingProject1Lib\GeneratedCode\Customer.cs" />
+  <Message Timestamp="2016-11-25T21:42:14" Importance="Medium" Text="'ModelingProject1::Account' -  (Class) : success (file replaced) - C:\Users\dimon\documents\visual studio 2015\Projects\ConsoleApplication4\ModelingProject1Lib\GeneratedCode\Account.cs" />
+  <Message Timestamp="2016-11-25T21:42:14" Importance="Medium" Text="'ModelingProject1::Address' -  (Class) : success (file replaced) - C:\Users\dimon\documents\visual studio 2015\Projects\ConsoleApplication4\ModelingProject1Lib\GeneratedCode\Address.cs" />
+  <Message Timestamp="2016-11-25T21:42:15" Importance="Medium" Text="'ModelingProject1::Contact' -  (Class) : success (file replaced) - C:\Users\dimon\documents\visual studio 2015\Projects\ConsoleApplication4\ModelingProject1Lib\GeneratedCode\Contact.cs" />
+  <Message Timestamp="2016-11-25T21:42:15" Importance="Medium" Text="'ModelingProject1::Payment' -  (Class) : success (file replaced) - C:\Users\dimon\documents\visual studio 2015\Projects\ConsoleApplication4\ModelingProject1Lib\GeneratedCode\Payment.cs" />
+  <Message Timestamp="2016-11-25T21:42:15" Importance="Medium" Text="'ModelingProject1::Contract' -  (Class) : success (file replaced) - C:\Users\dimon\documents\visual studio 2015\Projects\ConsoleApplication4\ModelingProject1Lib\GeneratedCode\Contract.cs" />
+  <Message Timestamp="2016-11-25T21:42:15" Importance="Diagnostic" Text="Name = EnumTemplate" />
+  <Message Timestamp="2016-11-25T21:42:15" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2016-11-25T21:42:15" Importance="Diagnostic" Text="ProjectPath = ..\ModelingProject1Lib\ModelingProject1Lib.csproj" />
+  <Message Timestamp="2016-11-25T21:42:15" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2016-11-25T21:42:15" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2016-11-25T21:42:15" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\EnumTemplate.t4" />
+  <Message Timestamp="2016-11-25T21:42:15" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\EnumTemplate.t4" />
+  <Message Timestamp="2016-11-25T21:42:15" Importance="Medium" Text="ModelingProject1's Text Template Binding: 'EnumTemplate' will apply EnumTemplate.t4 to: 'ModelingProject1::PaymentType' -  (Enumeration), 'ModelingProject1::ContractType' -  (Enumeration), 'ModelingProject1::Status' -  (Enumeration) " />
+  <Message Timestamp="2016-11-25T21:42:15" Importance="Medium" Text="'ModelingProject1::PaymentType' -  (Enumeration) : success (file replaced) - C:\Users\dimon\documents\visual studio 2015\Projects\ConsoleApplication4\ModelingProject1Lib\GeneratedCode\PaymentType.cs" />
+  <Message Timestamp="2016-11-25T21:42:15" Importance="Medium" Text="'ModelingProject1::ContractType' -  (Enumeration) : success (file replaced) - C:\Users\dimon\documents\visual studio 2015\Projects\ConsoleApplication4\ModelingProject1Lib\GeneratedCode\ContractType.cs" />
+  <Message Timestamp="2016-11-25T21:42:15" Importance="Medium" Text="'ModelingProject1::Status' -  (Enumeration) : success (file replaced) - C:\Users\dimon\documents\visual studio 2015\Projects\ConsoleApplication4\ModelingProject1Lib\GeneratedCode\Status.cs" />
+  <Message Timestamp="2016-11-25T21:42:15" Importance="Diagnostic" Text="Name = StructTemplate" />
+  <Message Timestamp="2016-11-25T21:42:15" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2016-11-25T21:42:15" Importance="Diagnostic" Text="ProjectPath = ..\ModelingProject1Lib\ModelingProject1Lib.csproj" />
+  <Message Timestamp="2016-11-25T21:42:15" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2016-11-25T21:42:15" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2016-11-25T21:42:15" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2016-11-25T21:42:15" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2016-11-25T21:42:15" Importance="Medium" Text="ModelingProject1's Text Template Binding: 'StructTemplate' will apply StructTemplate.t4 to: 'ModelingProject1::Bank' -  (Class), 'ModelingProject1::Branch' -  (Class), 'ModelingProject1::Customer' -  (Class), 'ModelingProject1::Account' -  (Class), 'ModelingProject1::Address' -  (Class), 'ModelingProject1::Contact' -  (Class), 'ModelingProject1::Payment' -  (Class), 'ModelingProject1::Contract' -  (Class) " />
+  <Message Timestamp="2016-11-25T21:42:15" Importance="Diagnostic" Text="'ModelingProject1::Bank' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-11-25T21:42:15" Importance="Diagnostic" Text="'ModelingProject1::Branch' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-11-25T21:42:15" Importance="Diagnostic" Text="'ModelingProject1::Customer' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-11-25T21:42:15" Importance="Diagnostic" Text="'ModelingProject1::Account' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-11-25T21:42:16" Importance="Diagnostic" Text="'ModelingProject1::Address' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-11-25T21:42:16" Importance="Diagnostic" Text="'ModelingProject1::Contact' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-11-25T21:42:16" Importance="Diagnostic" Text="'ModelingProject1::Payment' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-11-25T21:42:16" Importance="Diagnostic" Text="'ModelingProject1::Contract' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-11-25T21:42:16" Importance="Diagnostic" Text="The selection included 7 elements which were not bound to a template." />
+  <Message Timestamp="2016-11-25T21:42:16" Importance="Diagnostic" Text="'ModelingProject1::' -  (Association): no bound template." />
+  <Message Timestamp="2016-11-25T21:42:16" Importance="Diagnostic" Text="'ModelingProject1::' -  (Association): no bound template." />
+  <Message Timestamp="2016-11-25T21:42:16" Importance="Diagnostic" Text="'ModelingProject1::' -  (Association): no bound template." />
+  <Message Timestamp="2016-11-25T21:42:16" Importance="Diagnostic" Text="'ModelingProject1::' -  (Association): no bound template." />
+  <Message Timestamp="2016-11-25T21:42:16" Importance="Diagnostic" Text="'ModelingProject1::' -  (Association): no bound template." />
+  <Message Timestamp="2016-11-25T21:42:16" Importance="Diagnostic" Text="'ModelingProject1::' -  (Association): no bound template." />
+  <Message Timestamp="2016-11-25T21:42:16" Importance="Diagnostic" Text="'ModelingProject1::' -  (Association): no bound template." />
+  <Message Timestamp="2016-11-25T21:42:16" Importance="High" Text="Code generation complete. Errors: 0. Warnings: 0." />
+</Log>
